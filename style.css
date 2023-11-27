@@ -1,0 +1,53 @@
+body{
+    background-image: url(tour4.jpg);
+    background-position: top;
+    margin: 0%;
+    background-size:cover;
+}
+
+.container{
+    width: 120px;
+    height: 120px;
+    margin: 70px;
+    margin-right: 45px;
+    margin-left: 56px;
+    padding: 20px 20px;
+    background-color:blueviolet;
+    display:inline-block;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+#One{
+    color:cadetblue;
+    font-family: Verdana;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: bold;
+    transition: 3s, 0.3s;
+}
+
+p{
+    color:darksalmon;
+    text-align: center;
+    font-size: 30px;
+    font-weight:bolder;
+    font-family:'Segoe UI';
+}
+
+h5{
+    font-size: 18px;
+    font-style: italic;
+    color:aliceblue
+}
+
+#One:hover{
+    border-radius: 5px;
+    color:crimson;
+    background-color:pink;
+}
+
+
+
+
